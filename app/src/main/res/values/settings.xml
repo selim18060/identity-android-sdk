@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="facebook_app_id">2326266780745811</string>
-    <string name="fb_login_protocol_scheme">fb2326266780745811</string>
+    <string name="facebook_app_id">1634029666893228</string>
+    <string name="fb_login_protocol_scheme">fb1634029666893228</string>
     <string name="reachfive_scheme">reachfive</string>
     <string name="reachfive_client_id">LSCdhBOtrPeh8RFLz6bb</string>
     <string name="reachfive_path">/callback</string>
