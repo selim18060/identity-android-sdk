@@ -1,0 +1,6 @@
+# formatted as key=value
+ DOMAIN=sdk-mobile-sandbox.reach5.net
+ CLIENT_ID=LSCdhBOtrPeh8RFLz6bb
+ SCHEME=reachfive://LSCdhBOtrPeh8RFLz6bb/callback
+
+ ORIGIN=https://dev-sandbox-268508.web.app
